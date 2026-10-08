@@ -1,0 +1,90 @@
+FileReader created
+
+FileReader created
+Application created
+
+FileReader created
+Application created
+Application running
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+Application running
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+Application running
+hello-9
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+Application running
+hello-9
+hello
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+Application running
+hello-9
+hello
+hello-90000000000
+
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+Application running
+hello-9
+hello
+hello-90000000000
+FileReader destroyed
+

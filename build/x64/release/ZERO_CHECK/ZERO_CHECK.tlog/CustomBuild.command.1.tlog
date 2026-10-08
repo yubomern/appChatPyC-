@@ -1,0 +1,10 @@
+^C:\USERS\G702306\DESKTOP\APCCPLOMM\BUILD\CMAKEFILES\9F69F7503AA0C9E84A9F47019CDF750E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/g702306/Desktop/apccpLOmm -BC:/Users/g702306/Desktop/apccpLOmm/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/g702306/Desktop/apccpLOmm/build/Geometry.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

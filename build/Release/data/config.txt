@@ -1,0 +1,12 @@
+FileReader created
+Application created
+Application running
+10s in Vector: 0
+10s in Multiset: 2
+hello  world
+Time taken: 1 seconds
+Application running
+hello-9
+hello
+hello-90000000000
+FileReader destroyed
